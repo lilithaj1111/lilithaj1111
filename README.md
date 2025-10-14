@@ -5,10 +5,6 @@
 🌱 Currently improving my skills in **Selenium** and **Playwright**  
 🔭 I’m currently working on **my Portfolio**
 🚀 Excited to grow as a **Quality Assurance Tester**
-📫 How to reach me: 
-**Email : anajoyecaran@gmail.com**
-**Phone no. : 9620616308**
-😄 Pronouns: she/her
 
 ---
 
