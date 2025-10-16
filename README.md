@@ -3,7 +3,7 @@
 🎓 **BS in Information Technology – Cum Laude**  
 💻 Passionate about software testing and web automation  
 🌱 Currently improving my skills in **Selenium** and **Playwright**  
-🔭 I’m currently working on **my Portfolio**
+🔭 I’m currently working on **my Portfolio** 
 🚀 Excited to grow as a **Quality Assurance Tester**
 
 ---
