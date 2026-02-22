@@ -27,7 +27,7 @@ I am a **BS Information Technology graduate (Cum Laude)** currently working as a
 > **The Solution:** I built an **n8n** workflow that:
 > 1. Triggers via Webhook from a lead capture form.
 > 2. Uses **Claude AI** to analyze and categorize the lead based on sentiment and urgency.
-> 3. Automatically updates a Google Sheet and notifies the team via Slack.
+> 3. Automatically updates a Google Sheet and notifies the team via Gmail.
 > 4. **Result:** Reduced manual processing time by **90%**.
 
 ---
