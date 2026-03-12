@@ -33,7 +33,7 @@ I am a **BS Information Technology graduate (Cum Laude)** currently working as a
 ---
 
 ### 📊 GitHub Stats
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical)
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilithaj1111&show_icons=true&theme=radical)
 
 ---
 
