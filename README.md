@@ -21,7 +21,7 @@ I am a **BS Information Technology graduate (Cum Laude)** currently working as a
 
 ---
 
-### ⭐ Featured Project: AI-Powered Workflow Automation
+### ⭐ Featured Projects: n8n Workflow Automation
 > **The Problem:** Manual data entry and lead categorization were taking 10+ hours a week.
 > 
 > **The Solution:** I built an **n8n** workflow that:
